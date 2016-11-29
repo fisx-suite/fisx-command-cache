@@ -1,0 +1,22 @@
+{
+  "name": "fisx-command-cache",
+  "version": "0.1.0",
+  "description": "cache command for fisx",
+  "main": "index.js",
+  "keywords": ["fis3","fisx","cache"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wuhy/fisx-command-cache.git"
+  },
+  "bugs": {
+    "url": "http://github.com/wuhy/fisx-command-cache/issues"
+  },
+  "author": "sparklewhy@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "fisx-package": "^0.1.0"
+  }
+}
