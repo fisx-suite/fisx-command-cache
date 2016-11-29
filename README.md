@@ -17,7 +17,8 @@ fisx cache dir --type component # view the component cache dir
 ```shell
 fisx cache clear # clear all cache
 fisx cache clear --type scaffold # clear all scaffold cache
-fisx cache clear --type component # clear all compnent cache
+fisx cache clear --type component # clear all component cache
+fisx cache clear etpl # clear named etpl component and scaffold cache
 fisx cache clear npm:jquery --type component # clear npm component cache
 fisx cache clear github:fisx-scaffold/npm-module --type scaffold # clear github scaffold cache
 ```
