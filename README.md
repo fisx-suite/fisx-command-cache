@@ -1,5 +1,8 @@
 fisx-command-cache
 ======
+
+[![Dependency Status](https://david-dm.org/wuhy/fisx-command-cache.svg)](https://david-dm.org/wuhy/fisx-command-cache) [![devDependency Status](https://david-dm.org/wuhy/fisx-command-cache/dev-status.svg)](https://david-dm.org/wuhy/fisx-command-cache#info=devDependencies) [![NPM Version](https://img.shields.io/npm/v/fisx-command-cache.svg?style=flat)](https://npmjs.org/package/fisx-command-cache)
+
 > Clear components or scaffold install cache
 
 ## How to use
