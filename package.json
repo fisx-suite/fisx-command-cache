@@ -1,6 +1,6 @@
 {
   "name": "fisx-command-cache",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "cache command for fisx",
   "main": "index.js",
   "keywords": ["fis3","fisx","cache"],
